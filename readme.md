@@ -26,3 +26,5 @@ Analysis (PCA) method.<br/>
 **Experiment 10**
 Write a Python program to demonstrate various Data Visualization
 Techniques using Matplotlib and Seaborn libraries.<br/> 
+
+Note:- Refer to lab.md file in folder for documentation
