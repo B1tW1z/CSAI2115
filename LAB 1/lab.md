@@ -99,7 +99,7 @@ STEP 3:- Play around with various test options
 
 ##### 10 FOLDS 
 
-![CROSS VALIDATION](CROSS.png)
+![CROSS VALIDATION](cross.png)
 
 ##### 5 FOLDS
 
